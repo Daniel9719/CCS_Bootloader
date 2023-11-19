@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.cmd": "asm-collection",
+        "systick.h": "c",
+        "bl_commands.h": "c",
+        "uart.h": "c",
+        "sysctl.h": "c",
+        "flash.h": "c",
+        "bl_uart.h": "c",
+        "bl_packet.h": "c"
+    }
+}

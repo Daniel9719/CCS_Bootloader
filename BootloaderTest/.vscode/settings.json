@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "uart.h": "c",
+        "hw_memmap.h": "c",
+        "sysctl.h": "c",
+        "pin_map.h": "c",
+        "systick.h": "c",
+        "stdint.h": "c",
+        "stdbool.h": "c",
+        "uartstdio.h": "c"
+    }
+}
